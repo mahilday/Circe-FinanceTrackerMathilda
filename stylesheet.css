@@ -1429,7 +1429,7 @@ body#dashboard footer nav ul li a {
     }
     body header i{
       position: fixed;
-      top:8%;
+      top:10%;
       left:85%;
       font-size:30px;
       transition: all 1s ease-in-out;
