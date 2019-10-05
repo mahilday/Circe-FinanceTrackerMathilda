@@ -1392,7 +1392,7 @@ body#dashboard footer nav ul li a {
     body header  nav ul{
       display:none;
       width:30%;
-      height:35vh;
+      height:40vh;
       position: fixed;
       top:10%;
       left:60%;
@@ -1429,7 +1429,7 @@ body#dashboard footer nav ul li a {
     }
     body header i{
       position: fixed;
-      top:6%;
+      top:8%;
       left:85%;
       font-size:30px;
       transition: all 1s ease-in-out;
